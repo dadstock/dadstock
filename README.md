@@ -1,3 +1,4 @@
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3613118)](https://tryhackme.com)
+<img src="https://tryhackme-badges.s3.amazonaws.com/dadstock.png" alt="Your Image Badge" />
+
 
 
