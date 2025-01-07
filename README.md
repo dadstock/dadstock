@@ -1,4 +1,5 @@
-## 🌍 Hello World, I'm Lorenzo
+
+## 🌍 Hello World, I'm Lorenzo 
 👨‍💻 Junior CyberSecurity Specialist  
 🤖 Hungry for knowledge in the tech field 
 <br>👾 Passionate about programming and automation<br>
