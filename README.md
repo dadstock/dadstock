@@ -6,6 +6,12 @@
 🧩 CyberSecurity is where i truly belong, and i hope to dedicate my career to it for life<br>
 🐺 AS Roma fan<br>
 
+
+
+
+
+
+
 # 💻 Tech Stack 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -19,8 +25,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dadstock&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
+# 📋 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=dadstock&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true) 
+# 🎯 Hands-On WebSite
+ <img src="https://tryhackme-badges.s3.amazonaws.com/dadstock.png" alt="Your Image Badge" />
+
 
 <!--
 **dadstock/dadstock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
