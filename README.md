@@ -28,6 +28,7 @@
 # 📋 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dadstock&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true) 
 # 🎯 Hands-On WebSite
+<img src="https://tryhackme-badges.s3.amazonaws.com/dadstock.png" alt="Your Image Badge" />
 
 
 
