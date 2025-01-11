@@ -2,7 +2,7 @@
 ## 🌍 Hello World, I'm Lorenzo 
 👨‍💻 Junior CyberSecurity Specialist  
 🤖 Hungry for knowledge in the tech field 
-<br>👾 Passionate about programming and automation<br>
+<br>👾 Threat Hunter Dream<br>
 🧩 CyberSecurity is where i truly belong, and i hope to dedicate my career to it for life<br>
 🐺 AS Roma fan<br>
 
